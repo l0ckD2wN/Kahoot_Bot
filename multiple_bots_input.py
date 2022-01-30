@@ -12,3 +12,4 @@ while counter < 10:
         print("Bot joined")
     bot.on("joined", joinHandle)
     counter += 1
+# Tomas ist GAY
